@@ -1,6 +1,6 @@
 # Barajas de Loteria Mexicana
 
-54 cartas en formato png, jpeg o webp. Incluye el archivo fuente `barajas-loteria-mexicana.jpg`
+54 cartas en formato png, jpeg o webp con su respectivo audio.
 
 - 01-el-gallo
 - 02-el-diablito
@@ -56,3 +56,5 @@
 - 52-la-maceta
 - 53-el-arpa
 - 54-la-rana
+
+La voces de las cartas se grabaron la herramienta [Text To Speech de Azure](https://azure.microsoft.com/es-mx/services/cognitive-services/text-to-speech/) y la edición del audio con [Kapwing](https://www.kapwing.com/).
